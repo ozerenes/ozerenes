@@ -55,6 +55,6 @@ I think in systems: how pieces fit together, where coupling hurts, and how to ke
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enesozer&show_icons=true&theme=default&hide_title=true&count_private=true&hide=issues)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enesozer&show_icons=true&theme=dark&hide_title=true&count_private=true&hide=issues)
 
 </div>
