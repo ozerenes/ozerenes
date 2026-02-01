@@ -51,10 +51,3 @@ I think in systems: how pieces fit together, where coupling hurts, and how to ke
 | **LinkedIn** | [https://www.linkedin.com/in/enes-%C3%B6zer-b818021b0/] |
 | **Email** | [enesozer@yahoo.com] |
 
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enesozer&show_icons=true&theme=dark&hide_title=true&count_private=true&hide=issues)
-
-</div>
